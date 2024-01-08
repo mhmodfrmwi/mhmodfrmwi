@@ -35,6 +35,6 @@ As a programmer, I wield various tools to bring my ideas to life. Here are some 
 
 ## Get in Touch
 
-I'm always open to connecting with fellow enthusiasts, collaborating on exciting projects, or just having a chat. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)!
+I'm always open to connecting with fellow enthusiasts, collaborating on exciting projects, or just having a chat. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mahmoud-elframawi-94a410271/)!
 
 Let's code, create, and explore together! 🚀

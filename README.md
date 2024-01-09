@@ -1,6 +1,6 @@
 # Mahmoud Elframawi - Introduction
 
-Hello! 👋 I'm Mahmoud Elframawi, a programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
+Hello! 👋 I'm Mahmoud Elframawi, a muslim and a programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
 
 ## About Me
 

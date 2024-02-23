@@ -15,9 +15,7 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
 
 I believe in the power of routine to bring order and efficiency to life, contributing to a balanced and fulfilling lifestyle.
 
-## Programming Tools
-
-### 🛠 &nbsp;Techs
+## 🛠 &nbsp;Techs
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

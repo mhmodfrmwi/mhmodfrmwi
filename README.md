@@ -43,10 +43,6 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-## Get in Touch
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/mahmoud-elframawi-94a410271/) and chat about programming, projects, or shared interests!
-
 Excited to code, create, and explore together! 🚀
 
 ---
@@ -57,8 +53,6 @@ Excited to code, create, and explore together! 🚀
 
 <!-- Most Used Languages Card -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-<br>
-<br>
 <br>
 
 <!-- Profile Views Badge -->

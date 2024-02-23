@@ -39,3 +39,8 @@ Excited to code, create, and explore together! 🚀
 
 <!-- Most Used Languages Card -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+
+<!-- Profile Views Badge -->
+<a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
+</a>

@@ -36,11 +36,12 @@ Excited to code, create, and explore together! 🚀
 
 <!-- GitHub Stats Card -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-
+<br>
 <!-- Most Used Languages Card -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-
+<br>
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
 </a>
+<br>

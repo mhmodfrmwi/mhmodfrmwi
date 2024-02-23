@@ -1,8 +1,8 @@
 # Mahmoud Elframawi
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Custom%20Text;Second%20Line%20Here&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Role%20Here;Something%20interesting&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 

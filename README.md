@@ -1,133 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahmoud Elframawi - Introduction</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 20px;
-        }
+# Mahmoud Elframawi - Introduction
 
-        h1 {
-            color: #dc3545;
-        }
+Hello! 👋 I'm Mahmoud Elframawi, a Muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
 
-        h2 {
-            color: #007bff;
-        }
+## About Me
 
-        h3 {
-            color: #28a745;
-        }
+- **Name:** Mahmoud Elframawi
+- **Interests:** Programming, Football, Wrestling, Photography.
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
+## Current Focus
 
-        li {
-            margin-bottom: 10px;
-        }
+I'm currently immersed in **Front-end Development**, exploring the creative side of building user-friendly interfaces.
 
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            margin-right: 5px;
-            font-size: 14px;
-            font-weight: bold;
-            text-align: center;
-            border-radius: 3px;
-        }
+## Philosophy
 
-        .tech-stack img {
-            width: 40px;
-            height: 40px;
-            margin-right: 10px;
-        }
+I believe in the power of routine to bring order and efficiency to life, contributing to a balanced and fulfilling lifestyle.
 
-        .tech-stack a {
-            text-decoration: none;
-            color: #495057;
-        }
+## 🛠 &nbsp;Tech Stack
 
-        .tech-stack a:hover {
-            color: #007bff;
-        }
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-        .profile-stats img {
-            margin-top: 20px;
-            margin-bottom: 10px;
-            width: 100%;
-        }
+## Get in Touch
 
-        .profile-views img {
-            margin-top: 20px;
-            width: 180px;
-        }
-    </style>
-</head>
-<body>
+Let's connect on [LinkedIn](https://www.linkedin.com/in/mahmoud-elframawi-94a410271/) and chat about programming, projects, or shared interests!
 
-    <h1>Mahmoud Elframawi - Introduction</h1>
+Excited to code, create, and explore together! 🚀
 
-    <p>Hello! 👋 I'm Mahmoud Elframawi, a Muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:</p>
+---
 
-    <h2>About Me</h2>
+<!-- GitHub Stats Card -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+<br>
 
-    <ul>
-        <li><strong>Name:</strong> Mahmoud Elframawi</li>
-        <li><strong>Interests:</strong> Programming, Football, Wrestling, Photography.</li>
-    </ul>
+<!-- Most Used Languages Card -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+<br>
 
-    <h2>Current Focus</h2>
-
-    <p>I'm currently immersed in <strong>Front-end Development</strong>, exploring the creative side of building user-friendly interfaces.</p>
-
-    <h2>Philosophy</h2>
-
-    <p>I believe in the power of routine to bring order and efficiency to life, contributing to a balanced and fulfilling lifestyle.</p>
-
-    <h2>🛠 &nbsp;Tech Stack</h2>
-
-    <div class="tech-stack">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <!-- Add more badges here -->
-    </div>
-
-    <h2>Get in Touch</h2>
-
-    <p>Let's connect on <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/">LinkedIn</a> and chat about programming, projects, or shared interests! Excited to code, create, and explore together! 🚀</p>
-
-    <hr>
-
-    <h2>GitHub Stats</h2>
-
-    <div class="profile-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
-    </div>
-
-    <h2>Most Used Languages</h2>
-
-    <div class="profile-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages">
-    </div>
-
-    <h2>Profile Views</h2>
-
-    <div class="profile-views">
-        <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
-            <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge" alt="Profile Views">
-        </a>
-    </div>
-
-</body>
-</html>
+<!-- Profile Views Badge -->
+<a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
+</a>

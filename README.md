@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Role%20Here;Something%20interesting&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice%20to%20see%20you%20bruh;I'm%20Mahmoud%20Front-End%20developer;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00a5e3&vCenter=true&size=22">
   </a>
 </p>
+
 
 Hello! 👋 I'm Mahmoud Elframawi, a Muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
 

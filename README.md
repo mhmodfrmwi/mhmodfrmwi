@@ -18,7 +18,7 @@ I believe in the power of routine to bring order and efficiency to life, contrib
 ## Programming Tools
 
 My toolkit includes:
-- Languages: C++, Java, HTML, CSS, Python.
+- Languages: C++, Java, HTML, CSS, Python,Java Script.
 - Version Control: Git.
 
 ## Get in Touch

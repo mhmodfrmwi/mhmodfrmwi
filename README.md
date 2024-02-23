@@ -1,5 +1,11 @@
 # Mahmoud Elframawi
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Your%20Custom%20Text;Second%20Line%20Here&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p>
+
 Hello! 👋 I'm Mahmoud Elframawi, a Muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
 
 ## About Me

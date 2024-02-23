@@ -20,11 +20,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-## About Me
-
-- **Name:** Mahmoud Elframawi
-- **Interests:** Programming, Football, Wrestling, Photography.
-
 ## Current Focus
 
 I'm currently immersed in **Front-end Development**, exploring the creative side of building user-friendly interfaces.

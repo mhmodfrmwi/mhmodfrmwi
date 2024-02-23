@@ -44,4 +44,3 @@ Excited to code, create, and explore together! 🚀
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
 </a>
-<br>

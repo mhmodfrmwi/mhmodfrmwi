@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/mhmud_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 <a href="https://www.facebook.com/mahmoud.elframawi" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>

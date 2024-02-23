@@ -1,6 +1,6 @@
 # Mahmoud Elframawi - Introduction
 
-Hello! 👋 I'm Mahmoud Elframawi, a muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
+Hello! 👋 I'm Mahmoud Elframawi, a Muslim and programming enthusiast with a diverse set of interests. Here's a quick look at who I am:
 
 ## About Me
 
@@ -15,7 +15,8 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
 
 I believe in the power of routine to bring order and efficiency to life, contributing to a balanced and fulfilling lifestyle.
 
-## 🛠 &nbsp;Techs
+## 🛠 &nbsp;Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -34,6 +35,8 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/mahmoud-elframawi-94a410
 
 Excited to code, create, and explore together! 🚀
 
+---
+
 <!-- GitHub Stats Card -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 <br>
@@ -46,4 +49,3 @@ Excited to code, create, and explore together! 🚀
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
 </a>
-

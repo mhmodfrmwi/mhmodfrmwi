@@ -33,3 +33,9 @@ I believe in the power of routine to bring order and efficiency to life, contrib
 Let's connect on [LinkedIn](https://www.linkedin.com/in/mahmoud-elframawi-94a410271/) and chat about programming, projects, or shared interests!
 
 Excited to code, create, and explore together! 🚀
+
+<!-- GitHub Stats Card -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+
+<!-- Most Used Languages Card -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />

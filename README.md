@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=When%20you%20know%20you%20know!;I'm%20Mahmoud%20Front-End%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=00a5e3&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=When%20you%20know%20you%20know!;A%20Dark%20Knight%20rises;&font=Fira%20Code&center=true&width=440&height=45&color=00a5e3&vCenter=true&size=22">
   </a>
 </p>
 

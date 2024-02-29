@@ -6,24 +6,6 @@
   </a>
 </p>
 
-## Contact
-
-<a href="https://linkedin.com/in/mohamdmahmoud" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamdmahmoud" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/mahmoud.elframawi" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elframawi" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/ma_hmoud_elframawi/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ma_hmoud_elframawi" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/mahmoudframawi98/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudframawi98" height="30" width="40" />
-</a>
-
 ## Current Focus
 
 I'm currently immersed in **Front-end Development**, exploring the creative side of building user-friendly interfaces.

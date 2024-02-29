@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/mahmoudframawi98/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=codeforces&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
+
 
 
 ## Current Focus

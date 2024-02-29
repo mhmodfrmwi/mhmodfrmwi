@@ -19,11 +19,9 @@
 <a href="https://www.instagram.com/ma_hmoud_elframawi/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/mahmoudframawi98/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<a href="https://www.leetcode.com/mahmoudframawi98/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudframawi98" height="30" width="40" />
 </a>
-
-
 
 ## Current Focus
 

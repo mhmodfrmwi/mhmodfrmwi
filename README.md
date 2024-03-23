@@ -28,13 +28,11 @@ Excited to code, create, and explore together! 🚀
 
 ---
 
-<!-- GitHub Stats Card -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<!-- Most Used Languages Card -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">

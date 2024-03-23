@@ -10,6 +10,13 @@
 
 I'm currently immersed in **Front-end Development**, exploring the creative side of building user-friendly interfaces.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_mhmod__" target="blank"><img align="center" src="https://raw.githubusercontent.com/mhmodfrmwi/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmodfrmwi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mhmodfrmwi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Elframawi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ma_hmoud_elframawi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mhmodfrmwi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ma_hmoud_elframawi" height="30" width="40" /></a>
+</p>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)&nbsp;

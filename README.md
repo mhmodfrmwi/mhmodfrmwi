@@ -17,8 +17,6 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
 <a href="https://www.instagram.com/ma_hmoud_elframawi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
   <a href="https://www.facebook.com/mahmoud.elframawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoud.elframawi" height="30" width="40" /></a>
 <a href="https://leetcode.com/mahmoudframawi98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhmodfrmwi" height="30" width="40" /></a>
-<a href="https://discord.gg/_mhmod__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_mhmod__" height="30" width="40" /></a>
-
 </p>
 
 ## 🛠 &nbsp;Tech Stack

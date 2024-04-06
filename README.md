@@ -43,15 +43,20 @@ Excited to code, create, and explore together! 🚀
 ---
 
 
-<p>
+<p>&nbsp;</p>
+
+<div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight&include_all_commits=true&count_private=true" alt="mhmodfrmwi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight&include_all_commits=true&count_private=true" alt="mhmodfrmwi's GitHub Streak" />
   </a>
-</p>
+</div>
+
+<p>&nbsp;</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>
+
 
 
 <!-- Profile Views Badge -->

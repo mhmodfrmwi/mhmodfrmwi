@@ -36,7 +36,6 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
----
 <p>&nbsp;</p>
 
 <div align="center">

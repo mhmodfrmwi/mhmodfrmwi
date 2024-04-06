@@ -36,13 +36,7 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
-
-
-Excited to code, create, and explore together! 🚀
-
 ---
-
-
 <p>&nbsp;</p>
 
 <div align="center">
@@ -56,9 +50,6 @@ Excited to code, create, and explore together! 🚀
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>
-
-
-
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">

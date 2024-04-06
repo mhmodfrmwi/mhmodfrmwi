@@ -42,9 +42,6 @@ Excited to code, create, and explore together! 🚀
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmodfrmwi" />
-</p>
 
 <p>&nbsp;</p>
 

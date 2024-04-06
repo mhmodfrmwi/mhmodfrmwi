@@ -46,6 +46,8 @@ Excited to code, create, and explore together! 🚀
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
+[Check out my GitHub streak!](https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=radical&include_all_commits=true&count_private=true)
+
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">

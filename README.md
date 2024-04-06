@@ -54,6 +54,9 @@ Excited to code, create, and explore together! 🚀
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmodfrmwi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">

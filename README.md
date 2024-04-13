@@ -1,5 +1,7 @@
 # Mahmoud Elframawi
-
+<p align="center">
+  <img src="https://i.pinimg.com/564x/a5/53/3d/a5533d8ebbd6dd7e0da97214ea00f54e.jpg">
+</p>
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Dark%20Knight%20rises🦇;&font=Fira%20Code&center=true&width=440&height=45&color=4682B4&vCenter=true&size=22">

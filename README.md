@@ -38,10 +38,6 @@ I'm currently immersed in **Front-end Development**, exploring the creative side
 </p>
 <p>&nbsp;</p>
 
-
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight&include_all_commits=true&count_private=true" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight&include_all_commits=true&count_private=true" alt="mhmodfrmwi's GitHub Streak" />
-  </a>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>

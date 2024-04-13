@@ -1,6 +1,6 @@
 # Mahmoud Elframawi
 <p align="center">
-  <img src="https://i.pinimg.com/564x/a5/53/3d/a5533d8ebbd6dd7e0da97214ea00f54e.jpg" width=50px hieght=50px>
+  <img src="https://i.pinimg.com/564x/a5/53/3d/a5533d8ebbd6dd7e0da97214ea00f54e.jpg" width=100px hieght=100px>
 </p>
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">

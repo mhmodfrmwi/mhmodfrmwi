@@ -80,6 +80,10 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=tokyonight" alt="mhmodfrmwi" /></p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=tokyonight" alt="mhmodfrmwi" />
+</p>
+
 ## 👁️ Profile Views
 
 <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge">

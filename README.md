@@ -1,9 +1,9 @@
 # Mahmoud Elframawi
 
 <!-- Centered Profile Image with Border -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://i.pinimg.com/564x/a6/04/18/a60418b2bdde122128a68f3307bc1113.jpg" width="120px" height="120px" style="border-radius: 50%; border: 3px solid #FF5733;">
-</p> -->
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -14,28 +14,27 @@
 
 ## 🌐 Connect with me
 
-<p align="left">
-  <a href="https://twitter.com/_mhmod__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="fill:#1DA1F2; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <a href="https://twitter.com/_mhmod__" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="fill:#0077B5; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.instagram.com/ma_hmoud_elframawi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="fill:#E4405F; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.instagram.com/ma_hmoud_elframawi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.facebook.com/mahmoud.elframawi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="fill:#1877F2; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.facebook.com/mahmoud.elframawi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://leetcode.com/mahmoudframawi98/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" style="fill:#FFA116; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://leetcode.com/mahmoudframawi98/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
 ## 🛠 Tech Stack
 
-<!-- Background and Hover Animation -->
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40" style="background-color:#00599C1a; border-radius: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
@@ -79,17 +78,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="mhmodfrmwi" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=highcontrast" alt="mhmodfrmwi" /></p>
-
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=highcontrast" alt="mhmodfrmwi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ## 👁️ Profile Views
 
-<a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red">
-  <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red">
-</a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red">
+    <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red" alt="Profile Views">
+  </a>
+</p>

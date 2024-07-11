@@ -1,9 +1,9 @@
 # Mahmoud Elframawi
 
 <!-- Centered Profile Image with Border -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/564x/a6/04/18/a60418b2bdde122128a68f3307bc1113.jpg" width="120px" height="120px" style="border-radius: 50%; border: 3px solid #FF5733;">
-</p>
+</p> -->
 
 <!-- Typing SVG -->
 <p align="center">

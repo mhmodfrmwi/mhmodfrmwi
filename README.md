@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+New+Things;&font=Fira+Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Final+Boss!;Passionate+Developer;Always+Learning+New+Things;&font=Fira+Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
   </a>
 </p>
 
@@ -102,16 +102,3 @@
 </p>
 
 ---
-
-## ✍️ Blog Posts
-
-<p align="center">
-  - [How to Build a GitHub Profile README](https://example.com)  
-  - [10 Tips for Learning Python](https://example.com)  
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by Mahmoud Elframawi
-</p>

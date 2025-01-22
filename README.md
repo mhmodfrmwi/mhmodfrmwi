@@ -1,18 +1,18 @@
-# Mahmoud Elframawi
-
-<!-- Centered Profile Image with Border -->
-<!--<p align="center">
-  <img src="https://i.pinimg.com/564x/a6/04/18/a60418b2bdde122128a68f3307bc1113.jpg" width="120px" height="120px" style="border-radius: 50%; border: 3px solid #FF5733;">
-</p> -->
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/mhmodfrmwi/mhmodfrmwi/blob/main/assets/banner.png" alt="Header Banner" width="100%">
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20ur%20Tribal%20Chief☝️;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+New+Things;&font=Fira+Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
   </a>
 </p>
 
-## 🌐 Connect with me
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/_mhmod__" target="_blank">
@@ -32,7 +32,9 @@
   </a>
 </p>
 
-## 🛠 Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -76,6 +78,8 @@
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,10 +88,35 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmodfrmwi&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 👁️ Profile Views
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red">
     <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&style=for-the-badge&color=red" alt="Profile Views">
   </a>
+</p>
+
+---
+
+## ✍️ Blog Posts
+
+<p align="center">
+  - [How to Build a GitHub Profile README](https://example.com)  
+  - [10 Tips for Learning Python](https://example.com)  
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Mahmoud Elframawi
 </p>

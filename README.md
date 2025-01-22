@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/mhmodfrmwi/mhmodfrmwi/blob/main/assets/banner.png" alt="Header Banner" width="100%">
-</p>
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
@@ -85,7 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmodfrmwi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmodfrmwi&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mhmodfrmwi&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---

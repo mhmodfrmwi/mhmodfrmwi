@@ -5,6 +5,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
+
 ---
 
 ## 🌍 Connect with Me  

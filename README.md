@@ -1,13 +1,20 @@
 # 👋 Welcome to My GitHub!  
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+the+Final+Boss!;Passionate+Developer+%7C+Problem+Solver;Always+Learning+%7C+Always+Improving;Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+the+Final+Boss!;DOTNET+Developer+%26+Backend+Specialist;Passionate+about+Clean+Architecture;Always+Learning+%7C+Always+Improving">
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhmodfrmwi&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
+
+---
+
+## 👨‍💻 About Me
+I am a passionate software engineer currently focused on the **.NET Ecosystem**. I am enrolled in the **Information Technology Institute (ITI) 9-Month Program (Intake 46)**, specializing in Backend Development. 
+
+My journey combines technical depth in **C# and Design Patterns** with a strong focus on **soft skills**, including business communication and leadership.
 
 ---
 
@@ -34,8 +41,15 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,git,github,docker,linux,redis,graphql,tailwind,scss,vscode,postman" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgresql,git,github,docker,linux,redis,postman,vscode" alt="Tech Stack">
 </p>
+
+---
+
+## 🚀 Currently  
+- 🎓 **Trainee:** ITI 9-Month Program (.NET Track) [Sept 2025 - June 2026]
+- 💼 **Intern:** Software Engineer Intern at **Fawry** - 📚 **Studying:** Advanced Design Patterns & Clean Architecture  
+- 🗣️ **Interests:** Public Speaking, Emotional Intelligence, & Business English  
 
 ---
 
@@ -44,8 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mhmodfrmwi&show_icons=true&theme=radical&hide_border=true&count_private=true">
 </p>
 
----
-
 ## 🎯 LeetCode Stats  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahmoudframawi98?theme=dark&font=Fira%20Code&ext=contest">
@@ -53,8 +65,6 @@
 
 ---
 
-💡 **Currently:**  
-- 🚀 Software Engineer Intern at **Fawry**  
-- 🏗️ Building **scalable & impactful applications**  
-
-📩 **Let's Collaborate!** Drop me a message—I'm always open to exciting new projects! 🚀
+<p align="center">
+  📩 <b>Let's Collaborate!</b> Drop me a message—I'm always open to exciting new projects! 🚀
+</p>

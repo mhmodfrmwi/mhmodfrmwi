@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- Animated Snake -->
+<!-- Animated Snake - GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmodfrmwi/mhmodfrmwi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmodfrmwi/mhmodfrmwi/output/github-contribution-grid-snake.svg">
@@ -20,7 +20,7 @@
 <!-- 3D Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_10px_rgba(10,102,194,0.4)" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="https://leetcode.com/mahmoudframawi98/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/mahmoud.elframawi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mahmoudframawi98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
@@ -236,9 +236,9 @@ const mahmoud = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmodfrmwi&custom_title=Mahmoud's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff" width="98%"/>
 </p>
 
-<!-- 3D Contribution Graph -->
+<!-- Profile Summary Card -->
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/v1?username=mhmodfrmwi&theme=radical&animation=true" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmodfrmwi&theme=algolia" width="98%"/>
 </p>
 
 </div>
@@ -301,7 +301,7 @@ const mahmoud = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="35" /> **DAILY DEV QUOTE**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 </div>
 
@@ -317,7 +317,7 @@ const mahmoud = {
 <p>
   <i>I'm always open to interesting conversations and collaboration opportunities!</i>
   <br><br>
-  <b>📧 Email:</b> <a href="mailto:your-email@example.com">your-email@example.com</a>
+  <b>📧 Email:</b> <a href="mailto:mahmoudframawi98@gmail.com">mahmoudframawi98@gmail.com</a>
   <br>
   <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/mahmoud-elframawi-94a410271/">Mahmoud Elframawi</a>
   <br>
@@ -337,8 +337,3 @@ const mahmoud = {
 
 <!-- Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,16,20,24&height=150&section=footer" width="100%"/>
-
-<!-- Snake Animation eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
